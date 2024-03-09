@@ -16,7 +16,7 @@ programa
 
 		
 
-
+		//base de cálculo
 		se (salario <= 2112.00){
 		     aliquota = 0.0
 			valor_deduzido = 0.0
@@ -87,7 +87,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2721; 
+ * @POSICAO-CURSOR = 434; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {salario, 6, 7, 7}-{aliquota, 6, 16, 8}-{valor_deduzido, 6, 26, 14}-{ir, 6, 42, 2};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
